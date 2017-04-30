@@ -1,7 +1,6 @@
 # Database2
 Final Database Project
 
-
 Let's say, there is an event. This event is an educational event called  SQL Saturday. It is a database people meetup. It happens once a year at many given addresses/locations and driven by local user groups.
 People who attend the meetup have different roles. Some are organizers, they keep track of submitted sessions, notify the presenters, and send all the info about meetup to “students” – who are in essence working professionals. They also solicit Sponsors/vendors.
  Presenters lecture. 
